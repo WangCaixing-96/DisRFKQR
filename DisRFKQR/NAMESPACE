@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+export(DKQR_RF)
+importFrom(Rcpp,sourceCpp)
+useDynLib(DisRFKQR, .registration = TRUE)
+
