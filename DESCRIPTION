@@ -3,7 +3,7 @@ Type: Package
 Title: Distributed kernel quantile regression via random features
 Version: 0.1.0
 Author: Wang Caixing
-Maintainer: Wang Caixing <Cxxxx_@163.sufe.edu.cn>
+Maintainer: Wang Caixing <wang.caixing@163.sufe.edu.cn>
 Description: Fit the distributed kernel quantile regression via random features. The current implementation 
     is only pseudo-distributed.
 License: GPL-2
