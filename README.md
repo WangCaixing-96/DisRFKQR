@@ -1,5 +1,5 @@
 # DisRFKQR
-An R package for "Communication-Efficient Nonparametric Quantile Regression via Random Features". The current implementation 
+An R package for "Communication-Efficient Nonparametric Quantile Regression via Random Features" accepted by Journal of Computational and Graphical Statistics (JCGS). The current implementation 
 is only pseudo-distributed.
 
 ## Installation
